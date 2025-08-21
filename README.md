@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Al-Masrafi
-- 👀 I’m interested in Arduino based Robotics,PCB design and so on.
-- 🌱 I’m currently learning Line following robot 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Arduino based Robotics,PCB design,AI-ML,Object-Detection.
+- 🌱 I’m currently learning object detection with custom trained model
+
 
 <!---
 Al-Masrafi/Al-Masrafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
